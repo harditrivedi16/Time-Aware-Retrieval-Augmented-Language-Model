@@ -1,7 +1,7 @@
+### This paper is accepted at CAI 2025 (in May) and will be published on IEEE Xplore. 
+
 Paper Name: Enhancing Retrieval-Augmented Language Models
 with Temporal Awareness
-
-This paper is accepted at CAI 2025 and will be published on IEEE Xplore. 
 
 Abstract: Abstract—In this paper, we propose and evaluate TempRALM,
 a temporally aware retrieval-augmented language model with
