@@ -1,9 +1,9 @@
-### This paper is accepted at 'Conference of Artificial Intelligence, 2025' (in May) and will be published on IEEE Xplore. Acceptance e-mail attached.
+### This paper is accepted at the 'IEEE Conference on Artificial Intelligence, 2025' to be held in May and will be published on IEEE Xplore. 
+#### Acceptance e-mail attached.
 
-Paper Name: Enhancing Retrieval-Augmented Language Models
-with Temporal Awareness
+**Paper Name: Enhancing Retrieval-Augmented Language Models with Temporal Awareness**
 
-Abstract: Abstract—In this paper, we propose and evaluate TempRALM,
+**Abstract:** Abstract—In this paper, we propose and evaluate TempRALM,
 a temporally aware retrieval-augmented language model with
 few-shot learning capabilities, which considers both the semantic
 and temporal relevance of retrieved documents in relation to a
