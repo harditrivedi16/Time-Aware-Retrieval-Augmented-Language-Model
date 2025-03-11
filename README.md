@@ -1,4 +1,4 @@
-### This paper is accepted at CAI 2025 (in May) and will be published on IEEE Xplore. 
+### This paper is accepted at 'Conference of Artificial Intelligence, 2025' (in May) and will be published on IEEE Xplore. Acceptance e-mail attached.
 
 Paper Name: Enhancing Retrieval-Augmented Language Models
 with Temporal Awareness
