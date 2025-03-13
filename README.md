@@ -1,7 +1,12 @@
 ### This paper is accepted at the 'IEEE Conference on Artificial Intelligence, 2025' to be held in May and will be published on IEEE Xplore. 
-#### Acceptance e-mail attached.
 
-**Paper Name: Enhancing Retrieval-Augmented Language Models with Temporal Awareness**
+
+#### Paper Name: Enhancing Retrieval-Augmented Language Models with Temporal Awareness
+#### Author Name: Hardi Trivedi, Prof. Jorjeta Jetcheva, Anoush Gade
+
+**The repository contains the following files:** 
+- **The research paper**
+- **The Acceptance mail from the Conference**
 
 **Abstract:** Abstract—In this paper, we propose and evaluate TempRALM,
 a temporally aware retrieval-augmented language model with
