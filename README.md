@@ -2,7 +2,7 @@
 
 
 #### Paper Name: Enhancing Retrieval-Augmented Language Models with Temporal Awareness
-#### Author Name: Hardi Trivedi, Prof. Jorjeta Jetcheva, Anoush Gade
+#### Author Name: Hardi Trivedi, Prof. Jorjeta Jetcheva, Anoushka Gade
 
 **The repository contains the following files:** 
 - **The research paper**
