@@ -1,7 +1,7 @@
 ### This paper is accepted at the 'IEEE Conference on Artificial Intelligence, 2025' to be held in May and will be published on IEEE Xplore. 
 
 
-#### Paper Name: Enhancing Retrieval-Augmented Language Models with Temporal Awareness
+#### Paper Name: It’s About Time: Incorporating Temporality in Retrieval Augmented Language Models
 #### Author Name: Hardi Trivedi, Prof. Jorjeta Jetcheva, Anoushka Gade
 
 **The repository contains the following files:** 
